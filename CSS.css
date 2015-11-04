@@ -31,6 +31,18 @@ h2 {
 #space {
 	height:50px;	
 }
+
+#memebership {
+	font-size:30px;
+	margin:auto;
+	height:400px;
+	width:700px;
+	border-radius:10px;
+	background-color:#FFFFFF;
+	padding:5px;
+	color:#438DC3;
+	text-align:center;
+}
  
 #left {
 	margin:auto;
