@@ -43,6 +43,28 @@ h2 {
 	color:#438DC3;
 	text-align:center;
 }
+
+#main {
+	margin:auto;
+	height:910px;
+	width:700px;
+	background-color:#FFFFFF;
+	border-radius:10px;
+	padding:5px;
+	color:#438DC3;
+	text-align:center;
+}
+
+#contact {
+	margin:auto;
+	height:150px;
+	width:300px;
+	background-color:#FFFFFF;
+	border-radius:10px;
+	padding:5px;
+	color:#438DC3;
+	text-align:center;
+}
  
 #left {
 	margin:auto;
