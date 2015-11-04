@@ -42,3 +42,76 @@ h2 {
 	color:#438DC3;
 	text-align:center;
 }
+
+#Brochure {
+	font-size:30px;
+	font-family:Impact;
+	margin-left:150px;
+	float:left;
+	height:50px;
+	width:70px;
+}
+
+#Graphs {
+	font-size:30px;
+	font-family:Impact;
+	margin-left:150px;
+	float:left;
+	height:50px;
+	width:70px;
+}
+
+#Prices {
+	font-size:30px;
+	font-family:Impact;
+	margin-left:150px;
+	float:left;
+	height:50px;
+	width:70px;
+}
+
+#Calculator {
+	font-size:30px;
+	font-family:Impact;
+	margin-left:150px;
+	float:left;
+	height:50px;
+	width:70px;
+}
+
+#Membership {
+	font-size:30px;
+	font-family:Impact;
+	margin-left:150px;
+	float:left;
+	height:50px;
+	width:70px;
+}
+
+#ContactUs {
+	font-size:30px;
+	font-family:Impact;
+	margin-left:150px;
+	float:left;
+	height:50px;
+	width:150px;
+}
+
+a:link {
+	color:#65BBE4;
+    text-decoration: none;
+}
+
+a:visited {
+	color:#65BBE4;
+    text-decoration: none;
+}
+
+a:hover {
+	color:#65BBE4;
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
